@@ -3,9 +3,9 @@
 
 def find_gcf(x,y):
     for num1 in range (x,0,-1):
-        if x % num1 == 0:
-
-        y % num1 == 0:
+        if x % num1 == 0 and y % num1 == 0:
+            return num1
+        
             
         
 
