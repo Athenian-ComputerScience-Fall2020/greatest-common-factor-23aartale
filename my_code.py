@@ -1,5 +1,5 @@
 # Collaborators (including web sites where you got help: (enter none if you didn't need help)
-#  
+#  megan
 
 def find_gcf(x,y):
     for num1 in range (x,0,-1):
